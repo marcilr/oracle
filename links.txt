@@ -8,6 +8,9 @@ Oracle related links
 
 Links
 =====
+Instant Client FAQ - Oracle
+https://www.oracle.com/technetwork/database/ic-faq-094177.html
+
 Oracle - Debian Wiki
 https://wiki.debian.org/DataBase/Oracle
 
