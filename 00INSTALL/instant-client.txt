@@ -22,11 +22,45 @@ most users will want "SQL*Plus" and the "SDK".
 --help.ubuntu.com/community/Oracle%20Instant%20Client
 
 
+
+Filelist
+========
+Version 10.1.0.5
+
+Instant Client Package - Basic: All files required to run OCI, OCCI, and JDBC-OCI applications 
+Downloadinstantclient-basic-linuxAMD64-10.1.0.5.0-20060519.zip (32,200,686 bytes) (cksum - 991396986)
+Downloadinstantclient-basic-linuxAMD64-32-10.1.0.5.0-20060519.zip (31,455,566 bytes) (cksum - 2639141761)
+
+*Instant Client Package - JDBC Supplement: Additional support for XA,
+ Internationalization, and RowSet operations under JDBC 
+ Downloadinstantclient-jdbc-linuxAMD64-10.1.0.5.0-20060519.zip (4,650,957 bytes) (cksum - 2639141761)
+ Downloadinstantclient-jdbc-linuxAMD64-32-10.1.0.5.0-20060519.zip (4,651,213 bytes) (cksum - 3355610301)
+
+*Instant Client Package - SQL*Plus: Additional libraries and executable
+ for running SQL*Plus with Instant Client
+ Downloadinstantclient-sqlplus-linuxAMD64-10.1.0.5.0-20060519.zip (366,963 bytes) (cksum - 567416601)
+ Downloadinstantclient-sqlplus-linuxAMD64-32-10.1.0.5.0-20060519.zip (331,855 bytes) (cksum - 850771164)
+
+*Instant Client Package - SDK: Additional header files and an
+ example makefile for developing Oracle applications with
+ Instant Client
+ Downloadinstantclient-sdk-linuxAMD64-10.1.0.5.0-20060519.zip (294,632 bytes) (cksum - 3782887635)
+ Downloadinstantclient-sdk-linuxAMD64-32-10.1.0.5.0-20060519.zip (294,618 bytes) (cksum - 1809531602) Optional packages are marked with a *. 
+
+NOTE: As of April 10, 2019 only see version 10.1.0.5.0
+      available.  Matthew had installed the
+      latest v12.2 for windows with Dom's assistance.     
+
+
 Links
 =====
 Downloads
 Oracle Instant Client Downloads
 https://www.oracle.com/technetwork/database/database-technologies/instant-client/downloads/index.html
+
+Instant Client Downloads
+for Linux AMD64
+https://www.oracle.com/technetwork/topics/linux-amd64-093390.html
 
 Oracle Instant Client
 ubuntu documentation
