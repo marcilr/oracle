@@ -1,0 +1,12 @@
+links.txt
+Created Wed Apr 10 10:28:46 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Oracle related links
+
+
+Links
+=====
+Oracle - Debian Wiki
+https://wiki.debian.org/DataBase/Oracle
