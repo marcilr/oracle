@@ -1,0 +1,37 @@
+instant-client.txt
+Created Wed Apr 10 10:47:48 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Oracle Instant Client
+Installation on Debian 9.8 amd64
+
+
+Introduction
+============
+Oracle Instant Client is a free Oracle database client.
+The current version is 12.1.0.2.0, and several versions
+back to 10.1.0.5 are available.
+
+1. Download the Oracle Instantclient RPM files from
+http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
+Everyone needs either "Basic" or "Basic lite", and
+most users will want "SQL*Plus" and the "SDK".
+
+
+--help.ubuntu.com/community/Oracle%20Instant%20Client
+
+
+Links
+=====
+Downloads
+Oracle Instant Client Downloads
+https://www.oracle.com/technetwork/database/database-technologies/instant-client/downloads/index.html
+
+Oracle Instant Client
+ubuntu documentation
+https://help.ubuntu.com/community/Oracle%20Instant%20Client
+
+Oracle Instant Client
+Has Downloads link
+http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html
