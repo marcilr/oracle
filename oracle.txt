@@ -4,3 +4,12 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Oracle database
+
+
+o Install oracle client
+o Replace existin tnsnames.ora
+
+
+LAND_RECORDS database usenrname
+AWSTATS - datase records on intprod
+
