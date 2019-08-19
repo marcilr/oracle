@@ -1,0 +1,8 @@
+#.gitignore
+# Created Mon Aug 19 15:06:38 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+oracle-sql-developer/
