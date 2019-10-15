@@ -22,3 +22,6 @@ oracle.txt
 
 pdf/
   Portable Document Format files
+
+sdo2shp/
+  Convert Oracle Spatial data to ESRI Shapefile
