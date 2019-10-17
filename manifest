@@ -26,8 +26,9 @@
 
 
 
-# --------------------------------------------------------------------------
-# Source                                                Target
-# --------------------------------------------------------------------------
-ssh://git@github.com/marcilr/oracle-sql-developer.git   oracle-sql-developer
-ssh://git@github.com/marcilr/sdo2shp.git                sdo2shp
+# ---------------------------------------------------------------------------
+# Source                                                 Target
+# ---------------------------------------------------------------------------
+ssh://git@github.com/marcilr/oracle-instant-client.git   instant-client
+ssh://git@github.com/marcilr/oracle-sql-developer.git    oracle-sql-developer
+ssh://git@github.com/marcilr/sdo2shp.git                 sdo2shp
