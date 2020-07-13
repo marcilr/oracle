@@ -32,4 +32,4 @@
 ssh://git@github.com/marcilr/oracle-instant-client.git   instant-client
 ssh://git@github.com/marcilr/sdo2shp.git                 sdo2shp
 ssh://git@github.com/marcilr/oracle-sql-developer.git    sql-developer
-ssh://git@github.com:marcilr/oracle-tex.git              tex
+ssh://git@github.com/marcilr/oracle-tex.git              tex
